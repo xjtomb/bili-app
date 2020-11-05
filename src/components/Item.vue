@@ -10,7 +10,7 @@ export default {
         isActive:{
             type:Boolean,  //约事该属性的类型是Boolean
             //required:true,  //约束该属性是必须传递
-            default:false,  //属性的默认值
+            default:true,  //属性的默认值
         }
     },
 }
