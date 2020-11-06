@@ -1,5 +1,4 @@
 # bili-app
-README
 
 ## Project setup
 ```
